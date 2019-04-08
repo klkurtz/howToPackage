@@ -1,2 +1,2 @@
 # howToPackage
-An interactive workshop introducing beginners to packages in R
+An interactive workshop together with my colleague Moritz Friedrich introducing beginners to packages in R.
